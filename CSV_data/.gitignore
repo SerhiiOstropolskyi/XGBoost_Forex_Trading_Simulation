@@ -1,0 +1,6 @@
+# Ignore everything in this directory
+*
+# Except this files
+!.gitignore
+!Xy_non_stationary
+!Xy_stationary
